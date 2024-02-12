@@ -1,4 +1,5 @@
 #!/bin/bash
+# this shelll script performs CRUD OPeration. check more detail @ README.md
 
 students_file="students-list_1023.txt"
 
