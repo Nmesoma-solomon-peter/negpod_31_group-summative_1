@@ -1,4 +1,5 @@
 #!/bin/bash
+#script that backup the directory created in task 2
 
 # Replace the following variables with your specific details
 remote_host="2f05c1f8800b.3be8ebfc.alu-cod.online"
