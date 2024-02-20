@@ -13,7 +13,7 @@
 
 <h2> Running </h2>
     <h5> follow the steps below to run task 1 </h5>
-        <p> LJ write how to run task 1 here </p>
+        <p> Gershom write how to run task 1 here </p>
     <h5> follow the steps below to run task 2 </h5>
         <p> Dav. write how to run task 2 here </p>
 
