@@ -11,8 +11,6 @@
     <ol>
         <li>Nmesoma Solomon Peter</li>
         <li>Isimbi Tuzinde Jade</li>
-        <li>Milk</li>
-        <li>Tea</li>
         <li>Laurelle Jinelle Nformi</li>
         <li>Milk</li>
         <li>Milk</li>
