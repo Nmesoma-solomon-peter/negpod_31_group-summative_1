@@ -8,6 +8,6 @@ remote_location="/summative/1023-2024j"
 local_directory="negpod_31-q1"
 
 # Use rsync to perform the backup
-rsync -rav --delete --progress -e "sshpass -p $remote_password ssh -o StrictHostKeyChecking=no" "$local_directory/" "$remote_username@$remote_host:$remote_location/"
+rsync -rav --progress -e "sshpass -p $remote_password ssh -o StrictHostKeyChecking=no" "$local_directory/" "$remote_username@$remote_host:$remote_location/"
 
 echo "Backup completed successfully to remote server."
