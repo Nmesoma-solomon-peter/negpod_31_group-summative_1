@@ -12,7 +12,7 @@
         <li>Nmesoma Solomon Peter</li>
         <li>Isimbi Tuzinde Jade</li>
         <li>Laurelle Jinelle Nformi</li>
-        <li>Milk</li>
+        <li>Tuyishime Rubagumya David</li>
         <li>Milk</li>
         <li>Milk</li>
     </ol>
