@@ -10,7 +10,7 @@
 <h2> Contributors </h2>
     <ol>
         <li>Nmesoma Solomon Peter</li>
-        <li>Tea</li>
+        <li>Isimbi Tuzinde Jade</li>
         <li>Milk</li>
         <li>Milk</li>
         <li>Milk</li>
