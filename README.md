@@ -2,7 +2,7 @@
 <h1> Title: Negpod 31 Summative (git and shell script) </h1>
 
 <h2> Overview </h2>
-<P> Jade write the overview of the project here </p>
+<P> The primary objective of this project is to develop an application  that facilitates the registration of students into the ALU Bachelor of Software Engineering program. The application will collect user input, manage student data, and contribute to building the cohort list for the program. </p>
   
 <h2> Installation</h2>
     <p>To install this application, clone the repository by running this command: https://github.com/Nmesoma-solomon-peter/negpod_31_group-summative_1.git
