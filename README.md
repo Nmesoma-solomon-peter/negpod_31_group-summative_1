@@ -1,5 +1,5 @@
 #how the application is used (Installation, running, contributors, etc)1
-<h1> Title: Negpod 31 Summative (git and shell script </h1>
+<h1> Title: Negpod 31 Summative (git and shell script) </h1>
 
 <h2> Installation</h2>
     <p> write here</p>
