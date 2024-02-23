@@ -1,4 +1,4 @@
-#!/bin/bash
+i/#!/bin/bash
 # this shelll script performs Create, Read, Update, and Delete (CRUD) OPeration. check more detail @ README.md
 
 students_file="students-list_1023.txt"
@@ -26,7 +26,7 @@ function delete_student {
     echo "Enter student ID to delete:"
     read student_id
 
-    grep -v "^$student_id," "$students_file" > "$students_file.tmp"
+    grep -v "^.*,$student_id$" "$students_file" > "$students_file.tmp"
     mv "$students_file.tmp" "$students_file"
     echo "Student with ID $student_id deleted successfully."
 }
