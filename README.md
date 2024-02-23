@@ -26,6 +26,6 @@
         <li>Isimbi Tuzinde Jade</li>
         <li>Laurelle Jinelle Nformi</li>
         <li>Tuyishime Rubagumya David</li>
-        <li>Milk</li>
+        <li>Tracy Confiance Murenzi</li>
         <li>Milk</li>
     </ol>
