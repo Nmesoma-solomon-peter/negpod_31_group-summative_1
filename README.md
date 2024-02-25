@@ -24,5 +24,5 @@
         <li>Laurelle Jinelle Nformi</li>
         <li>Tuyishime Rubagumya David</li>
         <li>Tracy Confiance Murenzi</li>
-        <li>Milk</li>
+        <li>David Tuyishime Rubagumya</li>
     </ol>
