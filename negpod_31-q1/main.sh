@@ -1,5 +1,6 @@
 i/#!/bin/bash
 # this shelll script performs Create, Read, Update, and Delete (CRUD) OPeration. check more detail @ README.md
+# You can run this script by typing ./main.sh in the terminal
 
 students_file="students-list_1023.txt"
 
