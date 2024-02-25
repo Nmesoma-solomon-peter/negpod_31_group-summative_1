@@ -1,3 +1,8 @@
 valence@gmail.com,20,005
 kal@gmail.com,21,K001
+<<<<<<< HEAD
 mugabo@gmail.com,21,M78
+=======
+leiri@gmail.com,22,002
+
+>>>>>>> e2031d9bd8d858e556b58bdc019ceb710b62388b

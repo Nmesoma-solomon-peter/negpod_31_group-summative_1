@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 valence@gmail.com
 kal@gmail.com
 mugabo@gmail.com
+=======
+kalim@alustudent.com
+leiri@alustudent.com
+>>>>>>> e2031d9bd8d858e556b58bdc019ceb710b62388b

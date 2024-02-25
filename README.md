@@ -14,7 +14,9 @@
 <h2> Running </h2>
     <h5> follow the steps below to run task 1 </h5>
         <p>To run any of `.sh` file, use './' followed by the filename. </p>
-    
+
+<!-- contributors -->
+
 <h2> Contributors </h2>
     <ol>
         <li>Nmesoma Solomon Peter</li>
